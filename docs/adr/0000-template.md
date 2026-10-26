@@ -1,22 +1,13 @@
-# N. Short noun phrase naming the decision
-
-<!-- Copy this file to docs/adr/NNNN-kebab-case-title.md (for example
-0001-parcel-state-machine.md). This template does not count towards your two ADRs. -->
+# ADR Template
 
 ## Status
-
 Proposed
 
-<!-- One of: Proposed, Accepted, Superseded, Deprecated, Rejected. -->
-
 ## Context
-
-<!-- The forces at play, including the ones pulling the other way. -->
+Describe the context.
 
 ## Decision
-
-<!-- One or two sentences in active voice: "We will ..." -->
+Describe the decision.
 
 ## Consequences
-
-<!-- What becomes easier and what becomes harder. Be honest. -->
+Describe the consequences.
